@@ -11,26 +11,22 @@
 ---
 
 ## Table of Contents
-
 - [Overview](#overview)
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 - [Achievements & Learning](#achievements--learning)
 - [Author & Contact](#author--contact)
-
 
 ---
 
 ## Overview
-
-Money Manager is a **full-stack web application** designed to help users manage income, expenses, and categories effortlessly. It features secure authentication, real-time transaction tracking, and insightful data visualization dashboards—all powered by Java, Spring Boot, MySQL, React, and JWT for a robust and secure experience.
+Money Manager is a **full-stack web application** designed to help users efficiently manage their income, expenses, and categories. It offers secure authentication, real-time transaction tracking, powerful data filtering, and visual dashboards—built with Java, Spring Boot, MySQL, React, and JWT for reliability and a seamless user experience.
 
 ---
 
 ## Demo
-
 Watch the demo video to see the application in action:
 
 [![Money Manager Demo](https://img.youtube.com/vi/J5TXq3BWTPA/0.jpg)](https://www.youtube.com/watch?v=J5TXq3BWTPA)
@@ -40,19 +36,18 @@ Click the image above or [click here](https://www.youtube.com/watch?v=J5TXq3BWTP
 ---
 
 ## Features
-
-- 💰 Income & Expense Tracking: Easily add, modify, and organize transactions.
-- 🎯 Category Management: Customize and manage spending/income categories.
-- 📊 Personalized Dashboard: View detailed financial reports and graphs.
-- 🔐 Authentication: Secure login using JWT and Spring Security frameworks.
-- ⚙️ RESTful APIs: Efficient backend interface powered by Spring Boot.
-- ⚛️ Dynamic Frontend: Responsive UI built with React.
-- 🔄 Real-Time Updates: Instant transaction updates for smooth user experience.
+- 💰 Income & Expense Tracking: Add, modify, and organize financial transactions.
+- 🎯 Category Management: Create and manage custom categories.
+- 🔎 Data Filtering: Instantly filter transactions by category or keyword for easy analysis.
+- 📊 Personalized Dashboard: View summaries and trends with clear charts and graphs.
+- 🔐 Authentication: Secure access using JWT and Spring Security.
+- ⚙️ RESTful APIs: Robust backend integration with Java Spring Boot.
+- ⚛️ Dynamic Frontend: Responsive React UI for smooth user interaction.
+- 🔄 Real-Time Updates: Immediate feedback on changes and new entries.
 
 ---
 
 ## Technologies
-
 | Technology         | Usage                         |
 |--------------------|------------------------------|
 | Java               | Backend logic & APIs          |
@@ -65,22 +60,36 @@ Click the image above or [click here](https://www.youtube.com/watch?v=J5TXq3BWTP
 
 ---
 
-## Achievements & Learning
+## Screenshots
+Below are screenshots illustrating key features in the app:
 
-- Developed secure RESTful APIs facilitating financial operations.
-- Implemented JWT authentication with role-based access control.
-- Created user-friendly dashboards visualizing financial data effectively.
+![Dashboard](./screenshots/Dashboard.png)  
+*Comprehensive overview of all transactions*
+
+![User Dashboard](./screenshots/User%20dashoard%20.png)  
+*Personal dashboard for individual transaction summaries*
+
+![Income Dashboard](./screenshots/Income%20dashboard.png)  
+*Income tracking and analysis*
+
+![Add Category](./screenshots/add%20category.png)  
+*Manage categories for efficient data organization*
+
+![Filter Data](./screenshots/Filter%20data.png)  
+*Robust data filtering for fast searching and reporting*
+
+---
+
+## Achievements & Learning
+- Developed secure RESTful APIs for key financial operations.
+- Implemented robust JWT authentication and role-based controls.
+- Designed interactive dashboards with clear financial visualizations.
+- Enhanced usability with instant filter/search capabilities.
 
 ---
 
 ## Author & Contact
-
 **Harshita Dutta**  
-- Email: harshitadutta1272@gmail.com  
+- Email: [harshitadutta1272@gmail.com](mailto:harshitadutta1272@gmail.com)  
 - LinkedIn: [harshita-dutta](https://linkedin.com/in/harshita-dutta)  
 - GitHub: [harshita-d12](https://github.com/harshita-d12)  
-
-
-
-
-
