@@ -65,9 +65,6 @@ Click the image above or [click here](https://www.youtube.com/watch?v=J5TXq3BWTP
 
 ---
 
-
----
-
 ## Achievements & Learning
 
 - Developed secure RESTful APIs facilitating financial operations.
