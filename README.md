@@ -84,18 +84,7 @@ Click the image above or [click here](https://www.youtube.com/watch?v=J5TXq3BWTP
 - LinkedIn: [harshita-dutta](https://linkedin.com/in/harshita-dutta)  
 - GitHub: [harshita-d12](https://github.com/harshita-d12)  
 
----
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Notes
-
-- Consider adding your own project banner image or logo at the top with a Markdown image tag.
-- Replace the demo video thumbnail with your recorded GIF for a lively readme.
-- Feel free to extend with contribution guidelines if you want collaborators.
 
 
