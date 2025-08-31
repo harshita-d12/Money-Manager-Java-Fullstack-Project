@@ -64,7 +64,7 @@ Click the image above or [click here](https://www.youtube.com/watch?v=J5TXq3BWTP
 Below are screenshots illustrating key features in the app:
 
 ![Dashboard](./screenshots/Dashboard.png)  
-*Comprehensive overview of all transactions*
+*Dashboard*
 
 ![User Dashboard](./screenshots/User%20dashoard%20.png)  
 *Personal dashboard for individual transaction summaries*
