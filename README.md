@@ -19,8 +19,7 @@
 - [Project Structure](#project-structure)
 - [Achievements & Learning](#achievements--learning)
 - [Author & Contact](#author--contact)
-- [License](#license)
-- [Notes](#notes)
+
 
 ---
 
